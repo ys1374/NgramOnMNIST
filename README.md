@@ -12,7 +12,7 @@ A minimal PyTorch implementation of a bigram language model operating at the pix
   <tr>
     <td>
       <div align="center">
-        <img src="./input.png" alt="OUTPUT" width="300"/>
+        <img src="./img/input.png" alt="OUTPUT" width="300"/>
         <p>INPUTs</p>
       </div>
     </td>
@@ -30,7 +30,7 @@ A minimal PyTorch implementation of a bigram language model operating at the pix
     </td>
         <td>
       <div align="center">
-        <img src="./img/output.png" alt="CNN" width="300"/>
+        <img src="./img/ngrammlp.png" alt="CNN" width="300"/>
         <p>nGram CNN</p>
       </div>
     </td>

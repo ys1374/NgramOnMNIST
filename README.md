@@ -6,6 +6,39 @@
 
 A minimal PyTorch implementation of a bigram language model operating at the pixel level, adapted for MNIST handwritten digit generation. Part of foundational AI/ML studies aligned with long-term deep learning mastery goals.
 
+## Output/Input (IO)
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="./input.png" alt="OUTPUT" width="300"/>
+        <p>INPUTs</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="./output.png" alt="SLP" width="300"/>
+        <p>biGram SLP</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="./output.png" alt="MLP" width="300"/>
+        <p>nGram MLP</p>
+      </div>
+    </td>
+        <td>
+      <div align="center">
+        <img src="" alt="CNN" width="300"/>
+        <p>nGram CNN</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
 ## Key Features
 
 🖼️ **Pixel-level Generation** - Predicts next pixel intensity using bigram statistics  

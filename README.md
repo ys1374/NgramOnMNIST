@@ -18,19 +18,19 @@ A minimal PyTorch implementation of a bigram language model operating at the pix
     </td>
     <td>
       <div align="center">
-        <img src="./output.png" alt="SLP" width="300"/>
+        <img src="./img/bigramslp.png" alt="SLP" width="300"/>
         <p>biGram SLP</p>
       </div>
     </td>
     <td>
       <div align="center">
-        <img src="./output.png" alt="MLP" width="300"/>
+        <img src="./img/ngrammlp.png" alt="MLP" width="300"/>
         <p>nGram MLP</p>
       </div>
     </td>
         <td>
       <div align="center">
-        <img src="./output.png" alt="CNN" width="300"/>
+        <img src="./img/output.png" alt="CNN" width="300"/>
         <p>nGram CNN</p>
       </div>
     </td>
